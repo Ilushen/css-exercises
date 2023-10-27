@@ -1,0 +1,18 @@
+.Odd {
+    background-color:#ff6863;
+    font-family: "verdana","DejaVu Sans",sans-serif;
+}
+#elementtwo{
+ color:#0000ff;
+ font-size: 36px;
+}
+
+.Odd.coller{
+  font-size: 24px;
+}
+
+#fourth{
+    background-color: rgb(33, 156, 33);
+    font-weight: bold;
+    font-size: 24px;
+}
